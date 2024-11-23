@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade 11 Diaries</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="header">
+        <div class="container">
+            <h1>Grade 11 Diaries</h1>
+            <p class="tagline">The Adventures of a Senior High STEM Student</p>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Me</a></li>
+                    <li><a href="#posts">Blog Posts</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <h2>Welcome to My Grade 11 Journey</h2>
+            <p>A Peek into Senior High Life</p>
+        </div>
+    </section>
+
+    <!-- Featured Blog Posts -->
+    <section id="posts" class="featured-posts">
+        <div class="container">
+            <h2>Featured Posts</h2>
+            <div class="post-grid">
+                <article class="post-card">
+                    <h3>Surviving My First Week in Senior High</h3>
+                    <p>How I felt starting Grade 11 and the lessons I learned.</p>
+                    <a href="#" class="read-more">Read More</a>
+                </article>
+                <article class="post-card">
+                    <h3>Intramurals 2023 Highlights</h3>
+                    <p>Fun moments from our school events and how STEM rocked the field!</p>
+                    <a href="#" class="read-more">Read More</a>
+                </article>
+                <article class="post-card">
+                    <h3>Study Hacks for Grade 11 Success</h3>
+                    <p>My best tips for staying ahead of academics without burning out.</p>
+                    <a href="#" class="read-more">Read More</a>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hi, I’m James Fernand D. Ulbida, a Grade 12 STEM student sharing my journey through senior high school. Join me as I explore academics, fun events, and the little lessons that make school life memorable!</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>© 2024 Grade 11 Diaries | All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>
